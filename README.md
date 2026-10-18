@@ -77,7 +77,7 @@ closer to safe.
 ## Contributing
 
 New skills, corrections, and better reference snippets are welcome via PRs.
-See [CONTRIBUTING.md](CONTRIBUTING.md). The bar: every claim traceable to real, audited source or to a cited section of *Mastering Ethereum*.
+See [CONTRIBUTING.md](CONTRIBUTING.md). Required: every claim should be traceable to real, audited source or to a cited section of *Mastering Ethereum*.
 
 ## Author
 
