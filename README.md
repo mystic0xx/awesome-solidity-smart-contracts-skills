@@ -1,6 +1,6 @@
 # Awesome Solidity Smart Contract Skills for Agents. [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Battle-tested smart-contract patterns, packaged as **[Agent]
+Battle-tested smart-contract patterns, packaged as **Agent
 skills** you can drop into your own projects. Each skill is a focused, self-contained playbook for
 one recurring Solidity problem: what goes wrong, the pattern that fixes it, a working snippet, a
 checklist, and pointers to the reference implementations it was distilled from.
